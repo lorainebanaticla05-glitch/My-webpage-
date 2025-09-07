@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hello, Welcome to my wolrd</title>
+  
+</head>
+<body>
+  
+  <h1>
+    <b>
+      <p>Joanna Loraine E. Banaticla</p>
+    </b>
+  </h1>
+  
+ <h2>Description</h2>
+  
+  <p> i am loraine a simple college student</p>
+    
+  
+  <table border="5" cellpadding="2" cellspacing="2">
+    <tr>
+      
+      <th>Hobbies</th>
+    </tr>
+    <tr>
+      <td>Watching Movies</td>
+    </tr>
+    <tr>
+      <td>Playing Mobile Games</td>
+    </tr>
+    <tr>
+      <td>Badminton</td>
+    </tr>
+    
+  </table>
+  
+  <br>
+  
+  <table border="5">
+  <tr>
+    <th>Name</th>
+    <th>ID num</th>
+  </tr>
+  <tr>
+    <td>Loraine</td>
+    <td>2024-00241</td>
+  </tr>
+   <tr>
+     
+   </tr>
+</table>
+  
+</body>
+</html>
